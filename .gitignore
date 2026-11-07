@@ -1,7 +1,12 @@
-__pycache__/
 *.py[cod]
+*.pyc
+.env
+.env.*
 .pytest_cache/
-cleaned*/
-scrub_report.txt
-scrub_report.json
 .venv/
+__pycache__/
+cleaned*/
+dist/*.tmp
+node_modules/
+scrub_report.json
+scrub_report.txt
