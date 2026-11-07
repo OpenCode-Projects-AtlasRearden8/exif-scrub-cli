@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+cleaned*/
+scrub_report.txt
+scrub_report.json
+.venv/
